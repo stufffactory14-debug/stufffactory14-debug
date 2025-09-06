@@ -102,8 +102,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Snake Eating Dots Animation" width="400" />
-</p>
-
 
