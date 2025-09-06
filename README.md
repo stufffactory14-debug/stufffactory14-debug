@@ -63,6 +63,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
@@ -95,12 +99,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F61?style=for-the-badge&logo=leetcode&logoColor=white&animation=glow" alt="DSA Badge" />
 </p>
-
----
-
-### 💡 Fun Fact
-
-> "The best way to predict the future is to invent it." – Alan Kay
 
 ---
 
