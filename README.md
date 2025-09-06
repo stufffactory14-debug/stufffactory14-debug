@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="400" />
+  <img src="https://github.com/user-attachments/assets/21c52628-2333-4256-86a5-2b3846be6d7e" alt="Coding" width="400" height="300" />
 </p>
 
 <p align="center">
@@ -102,6 +102,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/21c52628-2333-4256-86a5-2b3846be6d7e" alt="Coding" width="400" height="300" />
-</p>
+
