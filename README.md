@@ -112,3 +112,25 @@
 </p>
 
 
+## 🤝Lets connect!
+
+<p align="center" style="font-size: 16px;">
+  :
+
+🌐 Let’s Connect
+
+I’m always open to learning, collaborating, and discussing exciting ideas in tech.
+Feel free to connect with me here:
+
+💼 LinkedIn
+
+🐦 Twitter / X
+
+📧 Email
+
+Let’s build something amazing together! 🚀<br><br>
+  💌 <strong>Drop me a message:</strong> <a href="mailto:stufffactory14@gmail.com">stufffactory14@gmail.com</a><br>
+  Or just say hi — I'm happy to connect! 
+</p>
+
+---
