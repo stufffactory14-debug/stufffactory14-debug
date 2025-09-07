@@ -12,6 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=stufffactory14-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ### 👨‍💻 About Me
