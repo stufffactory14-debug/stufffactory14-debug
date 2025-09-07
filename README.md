@@ -122,11 +122,7 @@
 I’m always open to learning, collaborating, and discussing exciting ideas in tech.
 Feel free to connect with me here:
 
-💼 LinkedIn
-
-🐦 Twitter / X
-
-📧 Email
+💼 <a href="https://www.linkedin.com/in/bhavya-gupta-157396313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
 
 Let’s build something amazing together! 🚀<br><br>
   💌 <strong>Drop me a message:</strong> <a href="mailto:stufffactory14@gmail.com">stufffactory14@gmail.com</a><br>
