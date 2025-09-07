@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 💡 About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
 - 📫 How to reach me: [stufffactory14@gmail.com](mailto:stufffactory14@gmail.com)
@@ -105,5 +105,10 @@
 </p>
 
 ---
+<h3>💡 LeetCode Profile Insights</h3>
+
+<p align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
+  <img width="80%" src="https://leetcard.jacoblin.cool/bhavyaguptaoppp?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+</p>
 
 
