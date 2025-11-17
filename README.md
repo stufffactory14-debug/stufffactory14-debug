@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Bhavya Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=A+Passionate+Frontend+Developer;From+India;Lifelong+Learner" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Passionate+about+coding,+innovation+and+turning+ideas+into+reality;Lifelong+Learner" alt="Typing SVG" />
+</p
+  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/21c52628-2333-4256-86a5-2b3846be6d7e" alt="Coding" width="400" height="300" />
